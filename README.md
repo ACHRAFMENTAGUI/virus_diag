@@ -1,0 +1,2 @@
+# VirusDiag
+Système académique modulaire en Python orienté objet pour le diagnostic d'infections virales à partir de données cliniques, combinant Machine Learning personnalisé (numpy), API FastAPI et interface Streamlit.
